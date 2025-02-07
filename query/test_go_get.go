@@ -5,5 +5,5 @@ import (
 )
 
 func MyPrint() {
-	fmt.Println("test_go_get")
+	fmt.Println("test_go_get11")
 }
